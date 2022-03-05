@@ -1,0 +1,16 @@
+{
+  "name": "02_design",
+  "version": "1.0.0",
+  "description": "first design project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dainius MI",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
